@@ -41,6 +41,9 @@ Finance-Tracker/
 
 ---
 
+## เครื่องมือที่ใช้
+
+|  |  |
 |---|---|
 | Frontend | Next.js 16 (App Router), React 19 |
 | Backend | Next.js API Routes (Node.js) |
