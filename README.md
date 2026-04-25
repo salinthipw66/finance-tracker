@@ -41,9 +41,6 @@ Finance-Tracker/
 
 ---
 
-## เทคโนโลยีที่ใช้
-
-| ส่วน | เทคโนโลยี |
 |---|---|
 | Frontend | Next.js 16 (App Router), React 19 |
 | Backend | Next.js API Routes (Node.js) |
@@ -64,7 +61,7 @@ Finance-Tracker/
 
 **1. Clone โปรเจกต์**
 ```bash
-git clone https://github.com/<username>/finance-tracker.git
+git clone https://github.com/salinthipw66/finance-tracker.git
 cd finance-tracker
 ```
 
